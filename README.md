@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Image - Place your banner URL here -->
-  <img src="LOGOFAdCO.jpg" alt="Header" width="100%"/>
+  <img src="fad.jpg" alt="Header" width="100%"/>
 
   <!-- Social Icons -->
   <p align="center">
