@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Image - Place your banner URL here -->
-  <img src="fad.jpg" alt="Header" width="60%" height="20%"/>
+  <img src="fad.jpg" alt="Header" width="35%" height="20%"/>
 
   <!-- Social Icons -->
   <p align="center">
