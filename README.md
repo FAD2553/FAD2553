@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner Image - Place your banner URL here -->
-  <img src="fad.jpg" alt="Header" width="40%" height="40%"/>
+  <img src="fad.jpg" alt="Header" width="60%" height="35%"/>
 
   <!-- Social Icons -->
   <p align="center">
@@ -75,8 +75,6 @@ Voici quelques-uns de mes projets phares :
 ### 📊 Statistiques
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAD2553&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="FAD2553 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAD2553&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAD2553&theme=radical" alt="GitHub Streak" />
