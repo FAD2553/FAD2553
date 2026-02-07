@@ -83,10 +83,5 @@ Voici quelques-uns de mes projets phares :
 ---
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/FAD2553/count.svg" />
-</div>
-
-<div align="center">
   Designed with ❤️ by <b>Ousmane</b>
 </div>
